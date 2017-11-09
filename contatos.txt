@@ -1,0 +1,3 @@
+nome; telefone
+Dick Vigarista; 99999999
+Pepé Legal; 11111111
